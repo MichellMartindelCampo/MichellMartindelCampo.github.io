@@ -1,0 +1,103 @@
+body
+{
+    background-color: antiquewhite;
+
+    ;
+    
+}
+main{
+    background-color: antiquewhite;
+}
+header {
+background-color: white;
+    }
+
+    footer {
+background-color: white;
+    }
+img {
+    width: 50px ;
+    height: 50px;
+    border-radius: 25px;
+    border: 1px solid antiquewhite;
+}
+h1{
+
+  color: saddlebrown ;  
+}
+
+p{
+    color: saddlebrown;
+}
+.dropdown-menu li {
+    position: relative;
+    }
+    .dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+    }
+    .dropdown-menu .dropdown-submenu-left {
+    right: 100%;
+    left: auto;
+    }
+    .dropdown-menu > li:hover > .dropdown-submenu {
+    display: block;
+    }
+
+    #carousel-caption{
+        color: white;
+        font-weight: lighter;
+    }
+
+.oscuro{
+    background-color: rgb(194, 105, 70);
+    text-align: center;
+    color: antiquewhite;
+
+    margin: 1px;
+    
+    
+}
+.oh2{
+    background-color: rgba(0, 0, 0, 0.034);
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    padding: 5px;
+}
+.op{
+    color: antiquewhite;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: lighter;
+    text-align: justify;
+    padding: 20px;
+}
+
+.claro{
+    background-color: antiquewhite;
+    text-align: center;
+    color: rgb(194, 105, 70);
+
+    margin: 1px;
+    
+    
+}
+
+.ch2{
+    background-color: rgba(255, 255, 255, 0.034);
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    padding: 5px;
+}
+
+.cp{
+    color:  rgb(194, 105, 70);
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: normal;
+    text-align: justify;
+    padding: 20px;
+}
+
